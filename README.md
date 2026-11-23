@@ -36,7 +36,7 @@ Hi! I'm **Devang Bisartii**, a Computer Science student passionate about buildin
 </p>
 
 
-### 🧠 Generative AI & LLMs
+###  Generative AI & LLMs
 
 <p align="left">
   <img src="https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge" />
@@ -46,14 +46,14 @@ Hi! I'm **Devang Bisartii**, a Computer Science student passionate about buildin
   <img src="https://img.shields.io/badge/KIVI-8A2BE2?style=for-the-badge" />
 </p>
 
-### 🔗 AI Agents & Frameworks
+###  AI Agents & Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" />
 </p>
 
-### 🗄️ Vector Databases & Retrieval
+###  Vector Databases & Retrieval
 
 <p align="left">
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
@@ -61,7 +61,7 @@ Hi! I'm **Devang Bisartii**, a Computer Science student passionate about buildin
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
 </p>
 
-### 👁️ Computer Vision & Face Recognition
+###  Computer Vision & Face Recognition
 
 <p align="left">
   <img src="https://img.shields.io/badge/ByteTrack-00A6A6?style=for-the-badge" />
@@ -71,7 +71,7 @@ Hi! I'm **Devang Bisartii**, a Computer Science student passionate about buildin
 
 
 
-### ⚙️ Tools & DevOps
+###  Tools & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
