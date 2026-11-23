@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1B,50:14213D,100:6C63FF&height=220&section=header&text=DEVANG BISARTII&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20COMPUTER%20VISION%20%7C%20DEVOPS&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1B,50:14213D,100:6C63FF&height=220&section=header&text=DEVANG%20BISARTII&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20COMPUTER%20VISION%20%7C%20DEVOPS&descAlignY=55&descSize=16"/>
 
 <br/>
 
