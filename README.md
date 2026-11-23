@@ -12,3 +12,40 @@
 </a>
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Devang Bisartii**, a Computer Science student passionate about building intelligent systems and exploring emerging technologies.
+
+-  Exploring Artificial Intelligence & Machine Learning
+-  Practicing Data Structures and Algorithms
+-  Interested in Computer Vision and Deep Learning
+-  Exploring DevOps, Docker and CI/CD
+-  Building real-world projects and learning by doing
+
+---
+
+## 🛠️ Tech Stack
+
+###  Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
+</p>
+
+###  AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+
+### ⚙️ Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
+
+---
