@@ -35,11 +35,40 @@ Hi! I'm **Devang Bisartii**, a Computer Science student passionate about buildin
   <img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
-###  AI / Machine Learning
+
+### 🧠 Generative AI & LLMs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVIDIA%20Nemotron-76B900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KIVI-8A2BE2?style=for-the-badge" />
 </p>
+
+### 🔗 AI Agents & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" />
+</p>
+
+### 🗄️ Vector Databases & Retrieval
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+</p>
+
+### 👁️ Computer Vision & Face Recognition
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ByteTrack-00A6A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RetinaFace-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/InsightFace-FF9F1C?style=for-the-badge" />
+</p>
+
 
 
 ### ⚙️ Tools & DevOps
